@@ -36,7 +36,7 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -M main
-git remote add origin https://github.com/ВАШ_ЛОГИН/tashkent-guide.git
+git remote add origin https://github.com/v21akr/tashkent-guide.git
 git push -u origin main
 ```
 
