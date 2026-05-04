@@ -689,7 +689,7 @@ export default function App() {
         </main>
 
         <footer className="relative z-10 py-10 text-center text-xs tracking-[0.2em] uppercase" style={{ color: 'rgba(56,189,248,0.2)' }}>
-          © 2026 Multilingual Guide Project · Faculty of Translation
+          © 2026 Multilingual Guide Project · Mubina Muksinjonova · TRANSLATION STUDIES (WITH CHINESE AND ENGLISH LANGUAGE)
         </footer>
       </div>
   );
